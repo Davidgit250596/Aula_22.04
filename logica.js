@@ -155,3 +155,11 @@
 //     console.log("senha incorreta");
     
 // }
+
+
+
+let tipo = "editor";
+
+if(tipo != "visitante"){
+    console.log("funcionario");
+}
