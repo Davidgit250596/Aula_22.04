@@ -124,7 +124,7 @@
     
 // }
 // else{
-//     console.log("o numero é -10");
+//     console.log("o numero é 0");
     
 // }
 
@@ -156,10 +156,49 @@
     
 // }
 
+/*EXERCICIO 4 */
+
+// let tipo = "editor";
+
+// if(tipo != "visitante"){
+//     console.log("funcionario");
+// }
 
 
-let tipo = "editor";
+/*EXERCICIO SALA DE AULA*/
+ 
+// let nota1 = 7;
+// let nota2 = 7;
+// let media = (nota1 + nota2) / 2;
 
-if(tipo != "visitante"){
-    console.log("funcionario");
-}
+
+// if (media >= 7) {
+//     console.log("aprovado com nota:", + media);
+    
+// }
+// else if (media >=5 && media < 7) {
+//     console.log("Recuperação");
+    
+// }
+// else {
+//     console.log("reprovado");
+    
+// }
+
+// let chovendo = true;
+// let temperatura = 20;
+// let nublado = true;
+
+// if (!chovendo && temperatura >= 20 && temperatura <= 30 ){
+//     console.log("Otimo dia para um passeio");    
+// }
+// else if (chovendo || temperatura < 20 ){
+//     console.log("Melhor ficar em casa hoje");    
+// }
+// else if (nublado && temperatura >= 20 ){
+//     console.log("Pode sair, mas leve um casaco");    
+// }
+// else {
+//     console.log("Faça o que quiser");
+    
+// }
