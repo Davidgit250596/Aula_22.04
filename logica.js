@@ -92,21 +92,66 @@
 //     console.log("não pode")
 // }
 
-let tipoUsuario = "editor";
+// let tipoUsuario = "editor";
 
-if (tipoUsuario == "admin") {
-    console.log("Acesso total");
+// if (tipoUsuario == "admin") {
+//     console.log("Acesso total");
 
-}
-else if (tipoUsuario == "editor") {
-    console.log("Acesso limitado");
+// }
+// else if (tipoUsuario == "editor") {
+//     console.log("Acesso limitado");
 
-}
-else if (tipoUsuario == "visitantes") {
-    console.log("acesso somente para leitura");
+// }
+// else if (tipoUsuario == "visitantes") {
+//     console.log("acesso somente para leitura");
 
-}
-else {
-    console.log("tipo de usuario invalido");
+// }
+// else {
+//     console.log("tipo de usuario invalido");
 
-}
+// }
+
+/*Exercicio 1  casa AULA 22.04 */
+
+// let numero = -10;
+
+// if(numero > 0){
+//     console.log("o numero é positivo");
+    
+// }
+// else if(numero <0){
+//     console.log("o numero é negativo");
+    
+// }
+// else{
+//     console.log("o numero é -10");
+    
+// }
+
+
+/*Exercicio 2 verificação de idade para votar -  casa AULA 22.04 */
+
+// let idade = 18;
+
+// if (idade >=18){
+//     console.log("Você poderá votar, parabéns");
+    
+// }
+// else{
+//     console.log("Infelizmente você não tem idade para votar");
+    
+// }
+
+/*Exercicio 3 validação de senha - casa AULA 22.04 */
+
+// let senhacorreta = "junin123";
+// let senhadigitada = "junin123";
+
+// if (senhacorreta == senhadigitada){
+//     console.log("Acesso permitido");
+    
+// }
+// else {
+//     console.log("senha incorreta");
+    
+// }
