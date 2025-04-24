@@ -117,15 +117,15 @@
 
 // if(numero > 0){
 //     console.log("o numero é positivo");
-    
+
 // }
 // else if(numero <0){
 //     console.log("o numero é negativo");
-    
+
 // }
 // else{
 //     console.log("o numero é 0");
-    
+
 // }
 
 
@@ -135,11 +135,11 @@
 
 // if (idade >=18){
 //     console.log("Você poderá votar, parabéns");
-    
+
 // }
 // else{
 //     console.log("Infelizmente você não tem idade para votar");
-    
+
 // }
 
 /*Exercicio 3 validação de senha - casa AULA 22.04 */
@@ -149,11 +149,11 @@
 
 // if (senhacorreta == senhadigitada){
 //     console.log("Acesso permitido");
-    
+
 // }
 // else {
 //     console.log("senha incorreta");
-    
+
 // }
 
 /*EXERCICIO 4 */
@@ -166,7 +166,7 @@
 
 
 /*EXERCICIO SALA DE AULA*/
- 
+
 // let nota1 = 7;
 // let nota2 = 7;
 // let media = (nota1 + nota2) / 2;
@@ -174,15 +174,15 @@
 
 // if (media >= 7) {
 //     console.log("aprovado com nota:", + media);
-    
+
 // }
 // else if (media >=5 && media < 7) {
 //     console.log("Recuperação");
-    
+
 // }
 // else {
 //     console.log("reprovado");
-    
+
 // }
 
 // let chovendo = true;
@@ -200,5 +200,38 @@
 // }
 // else {
 //     console.log("Faça o que quiser");
+
+// }
+
+/*EXERCICIO DE CASA EM SALA DE AULA*/
+
+// let numero = 10;
+
+// if (numero % 2 == 0){
+//     console.log("Numero par");   
+// }
+// else {
+//     console.log("Numero impar");
     
 // }
+
+
+/*EXERCICIO DE CASA EM SALA DE AULA*/
+
+// let ladoA = 10 ;
+// let ladoB = 2 ;
+// let ladoC = 3 ;
+// let ladoD = 4 ;
+
+// if (ladoA == ladoB && ladoB == ladoC && ladoC == ladoD){
+//     console.log("Todos os lados são iguais: Equilatero");
+    
+// }
+// else if (ladoA == ladoB || ladoA == ladoC || ladoB == ladoC || ladoA == ladoD || ladoC == ladoD ||ladoB == ladoD){
+//     console.log("dois lados são iguais: Isósceles");    
+// }
+// else {
+//     console.log("Todos os lados são diferentes: Escaleno");
+    
+// }
+
