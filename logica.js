@@ -235,3 +235,55 @@
     
 // }
 
+
+// let frutas = [10 , 5, 20, 30];
+
+//     console.log(frutas[3]);
+
+// let cores = ["vermelho", "azul","branco","rosa"]
+//     cores[2] = "preto"; /* <<<<< substitui a cor que esta na posição 2*/
+   
+
+    // for(let i = 5 ; i >=1;  i--){
+    //     console.log(i);
+    // }
+
+    // let nomes = ["chiquin", "joãozin", "junin"]
+
+    // for (let i = 0 ;i < nomes.length ;  i++)
+    //     console.log(nomes[i]);
+
+
+    // let i = 6;
+    // do{
+    //     console.log(i);
+    //     i++
+
+    // }
+    // while (i<= 5) {
+        
+        
+    // }
+        
+    // let numeros = [2, 3, 6, 7, 10];
+
+    // for (let i = 0; i < numeros.length ; i++){
+    //     if (numeros[i] % 2 == 0) {
+    //         console.log(numeros[i]);
+    //     }
+            
+    // }
+
+    // let i = 5;
+    // while (i >= 1){
+    //     console.log(i);
+    //     i--;
+        
+    // }
+
+    // let numeros = [4, 6, 8, 10, 12, 20, 50]
+    // let i = 1;
+    //  while (i < numeros.length){
+    //     console.log(numeros[i]);
+    //     i++
+    // }
