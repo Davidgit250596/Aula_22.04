@@ -212,7 +212,7 @@
 // }
 // else {
 //     console.log("Numero impar");
-    
+
 // }
 
 
@@ -225,14 +225,14 @@
 
 // if (ladoA == ladoB && ladoB == ladoC && ladoC == ladoD){
 //     console.log("Todos os lados são iguais: Equilatero");
-    
+
 // }
 // else if (ladoA == ladoB || ladoA == ladoC || ladoB == ladoC || ladoA == ladoD || ladoC == ladoD ||ladoB == ladoD){
 //     console.log("dois lados são iguais: Isósceles");    
 // }
 // else {
 //     console.log("Todos os lados são diferentes: Escaleno");
-    
+
 // }
 
 
@@ -242,48 +242,114 @@
 
 // let cores = ["vermelho", "azul","branco","rosa"]
 //     cores[2] = "preto"; /* <<<<< substitui a cor que esta na posição 2*/
-   
-
-    // for(let i = 5 ; i >=1;  i--){
-    //     console.log(i);
-    // }
-
-    // let nomes = ["chiquin", "joãozin", "junin"]
-
-    // for (let i = 0 ;i < nomes.length ;  i++)
-    //     console.log(nomes[i]);
 
 
-    // let i = 6;
-    // do{
-    //     console.log(i);
-    //     i++
+// for(let i = 5 ; i >=1;  i--){
+//     console.log(i);
+// }
 
-    // }
-    // while (i<= 5) {
-        
-        
-    // }
-        
-    // let numeros = [2, 3, 6, 7, 10];
+// let nomes = ["chiquin", "joãozin", "junin"]
 
-    // for (let i = 0; i < numeros.length ; i++){
-    //     if (numeros[i] % 2 == 0) {
-    //         console.log(numeros[i]);
-    //     }
-            
-    // }
+// for (let i = 0 ;i < nomes.length ;  i++)
+//     console.log(nomes[i]);
 
-    // let i = 5;
-    // while (i >= 1){
-    //     console.log(i);
-    //     i--;
-        
-    // }
 
-    // let numeros = [4, 6, 8, 10, 12, 20, 50]
-    // let i = 1;
-    //  while (i < numeros.length){
-    //     console.log(numeros[i]);
-    //     i++
-    // }
+// let i = 6;
+// do{
+//     console.log(i);
+//     i++
+
+// }
+// while (i<= 5) {
+
+
+// }
+
+// let numeros = [2, 3, 6, 7, 10];
+
+// for (let i = 0; i < numeros.length ; i++){
+//     if (numeros[i] % 2 == 0) {
+//         console.log(numeros[i]);
+//     }
+
+// }
+
+// let i = 5;
+// while (i >= 1){
+//     console.log(i);
+//     i--;
+
+// }
+
+// let numeros = [4, 6, 8, 10, 12, 20, 50]
+// let i = 1;
+//  while (i < numeros.length){
+//     console.log(numeros[i]);
+//     i++
+// }
+
+/*EXERCICIO EM SALA DE AULA ===================================*/
+
+// let nome = "Chiquin";
+// let idade = 20;
+// let nacionalidade = "Brasileiro"
+
+// console.log("Eu me chamo "+ nome +" , e tenho "+ idade +" anos e sou " + nacionalidade);
+
+/*EXERVIVIO EM SALA ED AULA ==============================*/
+
+
+// let eAluno = true;
+// let curso = "Full Stack"
+
+// if ( eAluno == true ){
+//     console.log("Olá, me chamo " +nome+ ", sou " +nacionalidade+ " e sou aluno do curso " +curso);
+
+// }
+// else {
+//     console.log("Olá, me chamo " +nome+ " e sou professor do curso " +curso);
+
+// }
+
+
+
+// console.log(frutas[0]);
+// console.log(frutas.length);
+// console.log(frutas(frutas.length));
+
+// let i = 1;
+
+
+
+// let frutas = ["Laranja", "Maçã", "Uva"];
+
+//     for (let i = 0; i < frutas.length; i++) {
+//     console.log(frutas[i]);
+    
+// }
+
+
+// function saudacao (nome){
+//     console.log("Olá " +nome+ " tudo bem?");    
+//     console.log(" ");
+//     console.log("Espero que sim");
+// }
+// saudacao ("David");
+
+
+// function soma (numero1, numero2) {
+//     console.log(numero1);
+//     console.log(numero2);
+//     let soma = numero1 + numero2;
+//     console.log("Resultado: " + soma);
+    
+    
+// }
+// soma(4, 5)
+// soma(1, 3)
+
+// function saudacao (nome, idade, nacionalidade){
+//     console.log("Sou " + nome + " tenho " +idade+ " anos e sou " +nacionalidade);
+    
+// }
+// saudacao ("David", 20 , "Brasileiro");
